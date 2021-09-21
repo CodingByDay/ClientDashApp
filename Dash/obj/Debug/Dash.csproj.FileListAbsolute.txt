@@ -1,0 +1,14 @@
+C:\Users\Janko\source\repos\Dashboard\Dash\bin\Debug\Dash.exe.config
+C:\Users\Janko\source\repos\Dashboard\Dash\bin\Debug\Dash.exe
+C:\Users\Janko\source\repos\Dashboard\Dash\bin\Debug\Dash.pdb
+C:\Users\Janko\source\repos\Dashboard\Dash\bin\Debug\MaterialSkin.dll
+C:\Users\Janko\source\repos\Dashboard\Dash\obj\Debug\Dash.csproj.AssemblyReference.cache
+C:\Users\Janko\source\repos\Dashboard\Dash\obj\Debug\Dash.Properties.Resources.resources
+C:\Users\Janko\source\repos\Dashboard\Dash\obj\Debug\Dash.csproj.GenerateResource.cache
+C:\Users\Janko\source\repos\Dashboard\Dash\obj\Debug\Dash.csproj.CoreCompileInputs.cache
+C:\Users\Janko\source\repos\Dashboard\Dash\obj\Debug\Dash.csproj.CopyComplete
+C:\Users\Janko\source\repos\Dashboard\Dash\obj\Debug\Dash.exe
+C:\Users\Janko\source\repos\Dashboard\Dash\obj\Debug\Dash.pdb
+C:\Users\Janko\source\repos\Dashboard\Dash\bin\Debug\Images\Analytics.jpg
+C:\Users\Janko\source\repos\Dashboard\Dash\obj\Debug\Dash.Dashboard.resources
+C:\Users\Janko\source\repos\Dashboard\Dash\obj\Debug\Dash.Login.resources

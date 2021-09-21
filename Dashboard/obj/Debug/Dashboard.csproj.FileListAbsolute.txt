@@ -1,0 +1,11 @@
+C:\Users\Janko\source\repos\Dashboard\Dashboard\bin\Debug\Images\Analytics.jpg
+C:\Users\Janko\source\repos\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\Janko\source\repos\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\Janko\source\repos\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\Janko\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.Dashboard.resources
+C:\Users\Janko\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.Login.resources
+C:\Users\Janko\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\Janko\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\Janko\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Janko\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Janko\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
